@@ -2,7 +2,7 @@
   "name": "tour-of-heroes-api",
   "version": "1.0.0",
   "description": "Node.JS REST API",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
